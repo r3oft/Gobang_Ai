@@ -1,0 +1,3 @@
+D:/GoBang Project/Test_version1/cmake-build-debug/CMakeFiles/Test_version.dir
+D:/GoBang Project/Test_version1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GoBang Project/Test_version1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
